@@ -17,7 +17,7 @@
 </a>
 
 <a style="margin:0px 2px;" href="https://github.com/hamiecod">
-    <img width="40px" height="40px" src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github">
+    <img width="40px" height="40px" src="https://cdn.iconscout.com/icon/free/png-512/github-154-675675.png" alt="github">
 </a>
 
 <a style="margin:0px 2px;" href="https://twitter.com/hargunbeer">
@@ -43,3 +43,12 @@
 <a style="margin:0px 2px;" href="https://reddit.com/user/hamiecod">
     <img width="40px" height="40px" src="https://logodownload.org/wp-content/uploads/2018/02/reddit-logo-16.png" alt="youtube">
 </a>
+<hr>
+
+<details>
+    <summary>Coding Statistics</summary>
+    [![Hargun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamiecod&theme=gradient&show_icons=true&count_private=true]
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamiecod)]
+    [![Pie Chart Stats]((https://wakatime.com/share/@hamiecod/a84d501c-948a-4bf7-a110-a062de023364.svg))]
+    [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hamiecod&layout=compact)]
+</details>
