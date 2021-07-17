@@ -43,7 +43,8 @@
 
 <details align="center">
     <summary>📈Coding Statistics</summary>
-    <img style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api?username=hamiecod&theme=gradient&show_icons=true&count_private=true"><br>
+    [![Hargun's github stats](https://github-readme-stats.vercel.app/api?username=hamiecod&theme=gradient&show_icons=true&count_private=true)](https://github.com/hamiecod)
+    <!-- <img style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api?username=hamiecod&theme=gradient&show_icons=true&count_private=true"><br> -->
     <img style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamiecod"><br>
     <img style="border-radius:10px" width="600px" height="600px" style="margin-top: 10px" src="https://wakatime.com/share/@hamiecod/a84d501c-948a-4bf7-a110-a062de023364.svg"><br>
     <img style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api/wakatime?username=hamiecod&layout=compact"><br>
