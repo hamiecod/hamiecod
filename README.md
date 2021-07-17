@@ -16,10 +16,6 @@
     <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png" alt="email">
 </a>
 
-<a style="margin:0px 2px;" href="https://github.com/hamiecod">
-    <img width="40px" height="40px" src="https://cdn.iconscout.com/icon/free/png-512/github-154-675675.png" alt="github">
-</a>
-
 <a style="margin:0px 2px;" href="https://twitter.com/hargunbeer">
     <img width="40px" height="40px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" alt="twitter">
 </a>
@@ -46,9 +42,35 @@
 <hr>
 
 <details align="center">
-    <summary>Coding Statistics</summary>
+    <summary>📈Coding Statistics</summary>
     <img style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api?username=hamiecod&theme=gradient&show_icons=true&count_private=true"><br>
     <img style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamiecod"><br>
     <img style="border-radius:10px" width="600px" height="600px" style="margin-top: 10px" src="https://wakatime.com/share/@hamiecod/a84d501c-948a-4bf7-a110-a062de023364.svg"><br>
     <img style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api/wakatime?username=hamiecod&layout=compact"><br>
 </details>
+
+## Technologies I use:
+<p style="margin-left: 12px;">
+    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
+    <img width="35px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png">
+    <img width="35px" height="40px" src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png">
+    <img width="40px" height="40px" src="http://www.pngall.com/wp-content/uploads/5/Cute-Pug-PNG-Image-File.png">
+    <img width="35px" height="46px" src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png">
+    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png">
+    <img width="40px" height="40px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-3.png">
+    <img width="40px" height="40px" src="https://api.nuget.org/v3-flatcontainer/libsassbuilder/1.6.3/icon">
+    <img width="40px" height="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+    <img width="40px" height="40px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png">
+    <img width="40px" height="40px" src="https://img.icons8.com/color/452/mongodb.png">
+    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png">
+    <img width="60px" height="40px" src="https://p.kindpng.com/picc/s/152-1522129_how-to-manage-and-automate-aws-ebs-snapshots.png">
+    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png">
+    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png">
+    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
+    <img width="40px" height="47px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neovim-mark-flat.svg/1200px-Neovim-mark-flat.svg.png">
+</p>
+
+<hr>
+<p align="center">
+<img height="21px" src="https://komarev.com/ghpvc/?username=hamiecod&color=blueviolet&style=plastic">
+</p>
