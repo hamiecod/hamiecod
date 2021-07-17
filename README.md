@@ -45,10 +45,10 @@
 </a>
 <hr>
 
-<details>
+<details align="center">
     <summary>Coding Statistics</summary>
-    ![Hargun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamiecod&theme=gradient&show_icons=true&count_private=true]
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamiecod)
-    ![Pie Chart Stats]((https://wakatime.com/share/@hamiecod/a84d501c-948a-4bf7-a110-a062de023364.svg))]
-    ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hamiecod&layout=compact)
+    <img style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api?username=hamiecod&theme=gradient&show_icons=true&count_private=true">
+    <img style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamiecod">
+    <img style="margin-top: 10px" src="https://wakatime.com/share/@hamiecod/a84d501c-948a-4bf7-a110-a062de023364.svg">
+    <img style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api/wakatime?username=hamiecod&layout=compact">
 </details>
