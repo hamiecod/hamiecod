@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hey%20there👋!%20I%20am%20Hargun%20😎&fontSize=57&reversal=true&desc=I%20am%20a%20passionate%20programmer%20and%20a%20student&animation=fadeIn&descSize=26&descAlignY=62&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hey%20there👋!%20I%20am%20Hargun%😎&fontSize=57&reversal=true&desc=I%20am%20a%20passionate%20programmer%20and%20a%20student&animation=fadeIn&descSize=26&descAlignY=62&section=header)
 
 <!-- ## I'm a passionate programmer and a student -->
 - 🌐I am a Full Stack Web Developer
@@ -63,7 +63,6 @@
     <img width="40px" height="40px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png">
     <img width="40px" height="40px" src="https://img.icons8.com/color/452/mongodb.png">
     <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png">
-    <img width="60px" height="40px" src="https://p.kindpng.com/picc/s/152-1522129_how-to-manage-and-automate-aws-ebs-snapshots.png">
     <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png">
     <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png">
     <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
