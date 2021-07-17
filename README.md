@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hey%20there👋!%20I%20am%20Hargun%😎&fontSize=57&reversal=true&desc=I%20am%20a%20passionate%20programmer%20and%20a%20student&animation=fadeIn&descSize=26&descAlignY=62&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hey%20there👋!%20I%20am%20Hargun😎&fontSize=57&reversal=true&desc=I%20am%20a%20passionate%20programmer%20and%20a%20student&animation=fadeIn&descSize=26&descAlignY=62&section=header)
 
 <!-- ## I'm a passionate programmer and a student -->
 - 🌐I am a Full Stack Web Developer
@@ -43,8 +43,7 @@
 
 <details align="center">
     <summary>📈Coding Statistics</summary>
-    [![Hargun's github stats](https://github-readme-stats.vercel.app/api?username=hamiecod&theme=gradient&show_icons=true&count_private=true)](https://github.com/hamiecod)
-    <!-- <img style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api?username=hamiecod&theme=gradient&show_icons=true&count_private=true"><br> -->
+    <img style="margin-top: 10px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamiecod&theme=solarized_dark"><br>
     <img style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamiecod"><br>
     <img style="border-radius:10px" width="600px" height="600px" style="margin-top: 10px" src="https://wakatime.com/share/@hamiecod/a84d501c-948a-4bf7-a110-a062de023364.svg"><br>
     <img style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api/wakatime?username=hamiecod&layout=compact"><br>
