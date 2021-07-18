@@ -41,12 +41,20 @@
 </a>
 <hr>
 
-<details align="center">
-    <summary>📈Coding Statistics</summary>
+## 🏆GitHub Trophies
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=hamiecod&theme=radical&margin-w=11&margin-h=10">
+</p>
+<hr>
+
+<details>
+    <summary><h2 style="display:inline;">📈Coding Statistics</h2></summary>
+    <p align="center">
     <img style="margin-top: 10px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamiecod&theme=solarized_dark"><br>
     <img style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamiecod&theme=radical"><br>
     <img style="border-radius:10px" width="600px" height="600px" style="margin-top: 10px" src="https://wakatime.com/share/@hamiecod/a84d501c-948a-4bf7-a110-a062de023364.svg"><br>
     <img style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api/wakatime?username=hamiecod&layout=compact&theme=radical"><br>
+    </p>
 </details>
 
 ## Technologies I use:
