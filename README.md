@@ -4,11 +4,11 @@
 - 🌐I am a Full Stack Web Developer
 - 📝I'm currently working on writing [JavaScript Notes](https://github.com/hamiecod/JavaScript-Notes)
 - 🌱I'm currently learning advanced JavaScript
-- 🤝I participate in [Hackathons](https://devpost.to/hamiecod) when I have time⌚
+- 🤝I participate in [Hackathons](https://devpost.com/hamiecod) when I have time⌚
 - 🏫I'm currently a 14 year old highschool freshman
 - 🥅2021 Goals: Learn advanced JavaScript and Node.js
-- ▶I like to make [YouTube videos](https://www.youtube.com/channel/UCzWNO-tOdLdPECcy1OUU91Q)
-- ⚡Fun Fact: I love reading books🤓
+- ✍I write programming-related articles frequently on [dev.to](https://dev.to/hamiecod) and [Medium](https://hamiecod.medium.com)
+- ▶I like to make YouTube videos about [technology](https://www.youtube.com/channel/UCzWNO-tOdLdPECcy1OUU91Q) in general and about [programming](https://www.youtube.com/channel/UC-p8z33DAVe48Gs0ld2Ab5g)
 - 👨‍💻Open to freelance
 
 ## 📧Reach me via:
