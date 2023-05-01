@@ -1,14 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hey%20there👋!%20I%20am%20Hargun😎&fontSize=57&reversal=true&desc=I%20am%20a%20passionate%20programmer%20and%20a%20student&animation=fadeIn&descSize=26&descAlignY=62&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hey%20there👋!%20I%20am%20Hargun😎&fontSize=57&reversal=true&desc=I%20am%20a%20passionate%20programmer%20and%20an%20upcoming%20author&animation=fadeIn&descSize=26&descAlignY=62&section=header)
 
 <!-- ## I'm a passionate programmer and a student -->
-- 🌐I am a Full Stack Backend Developer
-- 📝I'm currently learning about the core concepts of backend programming
+- 🌐I am interested in computer science
+- 📝I'm currently writing an ebook
 - 🤝I participate in [Hackathons](https://devpost.com/hamiecod) when I have time⌚
-- 🏫I'm currently a 14 year old highschool freshman
-- 🥅2021 Goals: Learn about the core concepts of backend development
+- 🥅2023 Goals: Learn from people internationally about computer science, business and the global issues
 - ✍I write programming-related articles frequently on [dev.to](https://dev.to/hamiecod) and [Medium](https://hamiecod.medium.com)
-- ▶I like to make YouTube videos about [technology](https://www.youtube.com/channel/UCzWNO-tOdLdPECcy1OUU91Q) in general and about [programming](https://www.youtube.com/channel/UC-p8z33DAVe48Gs0ld2Ab5g)
-- 👨‍💻Open to freelance
+- ▶I am also a [YouTube content creator](https://youtube.com/MrDevlogger)
+- 👨‍💻Interested in building businesses
 
 ## 📧Reach me via:
 <a style="margin:0px 2px;" href="mailto:hargunbeersingh@gmail.com">
